@@ -71,15 +71,22 @@
   </a>
 </p>
 
+![Top language](https://stats.pphat.top/languages?username=Amar-Karale)
+<br/>
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/amar-karale-7b8a943b6"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Amar Karale's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:amarkarale65@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Amar Karale's Email"/></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="![Uploading WhatsApp Video 2026-07-14 at 12.45.11 AM.GIF…]()" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
