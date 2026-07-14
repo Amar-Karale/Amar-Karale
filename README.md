@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Amar-Karale/Amar-Karale/main/optimized_banner.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - B.Sc. Computer Science graduate (2025) from Sitabai Arts, Commerce and Science College, Akola, now based in Pune. Passionate about building reliable cloud infrastructure and automating deployments.
@@ -89,4 +89,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
