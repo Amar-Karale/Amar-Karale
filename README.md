@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Amar-Karale/Amar-Karale/main/WhatsApp Video 2026-07-14 at 12.30.33 PM.gif" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Amar-Karale/Amar-Karale/main/WhatsAppVideo2026-07-20at11.43.07PM-ezgif.com-video-to-gif-converter (1).gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - B.Sc. Computer Science graduate (2025) from Sitabai Arts, Commerce and Science College, Akola, now based in Pune. Passionate about building reliable cloud infrastructure and automating deployments.
