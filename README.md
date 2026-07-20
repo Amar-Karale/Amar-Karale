@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Amar-Karale/Amar-Karale/main/sasuke-uchiha-the-shadow-hokage-moewalls-com-ezgif.com-video-to-gif-converter.gif" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Amar-Karale/Amar-Karale/main/sung-jin-woo-assassin-solo-leveling-moewalls-com-ezgif.com-video-to-gif-converter.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - B.Sc. Computer Science graduate (2025) from Sitabai Arts, Commerce and Science College, Akola, now based in Pune. Passionate about building reliable cloud infrastructure and automating deployments.
