@@ -15,20 +15,21 @@
 
 
 ## 🧠 My Focus Areas
-- AWS • Docker • Kubernetes • Terraform • Jenkins
+- Linux • AWS • Docker • Kubernetes • Terraform • Jenkins • DataDog
 
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/Amar-Karale">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amar-Karale&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Amar-Karale's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Amar-Karale&theme=radical&hide_border=true&cache_seconds=86400" alt="Amar-Karale's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Amar-Karale&theme=radical&hide_border=true&border_radius=10" alt="Amar-Karale's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Amar-Karale&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Amar Karale's GitHub Trophies" />
 </p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Amar-Karale&theme=radical&radius=10" alt="Amar-Karale's Activity Graph" />
 </p>
 
